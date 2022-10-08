@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTest1" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-10-08T06:12:01" hostname="HUY-DESKTOP" time="0.04">
+  <properties/>
+  <testcase name="testCaculateBMI1_1()" classname="PersonTest1" time="0.027"/>
+  <testcase name="testCaculateBMI1_2()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_3()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_4()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_5()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_6()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_7()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_8()" classname="PersonTest1" time="0.001"/>
+  <testcase name="testCaculateBMI1_9()" classname="PersonTest1" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
