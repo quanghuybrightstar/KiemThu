@@ -1,20 +1,16 @@
 public class Person {
 
-//    Initialized weight and height variable.
-    private static double weight, height;
-
     /*
-    *   Constructor 2 parameters.
+    *   Constructor 0 parameters.
     * */
-    public Person(double weight, double height) {
-        Person.weight = weight;
-        Person.height = height;
+    public Person() {
+
     }
 
     /*
     *   Caculate BMI Method and return a result.
     * */
-    public static String caculateBMI() {
+    public static String caculateBMI(double weight, double height) {
         String result = "";
         if(weight < 10.00 || weight > 1000.00 || height < 0.80 || height > 5.00) {
             result = "Input không hợp lệ";
