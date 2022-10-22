@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTestAllCSomeP" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-22T06:16:07" hostname="HUY-DESKTOP" time="0.022">
+  <properties/>
+  <testcase name="testCaculateBMI4_1()" classname="PersonTestAllCSomeP" time="0.017"/>
+  <testcase name="testCaculateBMI4_2()" classname="PersonTestAllCSomeP" time="0.001"/>
+  <testcase name="testCaculateBMI4_3()" classname="PersonTestAllCSomeP" time="0.001"/>
+  <testcase name="testCaculateBMI4_4()" classname="PersonTestAllCSomeP" time="0.0"/>
+  <testcase name="testCaculateBMI4_5()" classname="PersonTestAllCSomeP" time="0.0"/>
+  <testcase name="testCaculateBMI4_6()" classname="PersonTestAllCSomeP" time="0.001"/>
+  <testcase name="testCaculateBMI4_7()" classname="PersonTestAllCSomeP" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

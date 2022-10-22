@@ -1,1 +1,1 @@
-cmd /k gradlew.bat clean test --tests PersonTestC2
+cmd /k gradlew.bat clean test --tests PersonTestAllCSomeP
